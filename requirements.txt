@@ -1,0 +1,7 @@
+python-nmap
+os
+sys
+colorama
+pyfiglet
+termcolor
+socket
