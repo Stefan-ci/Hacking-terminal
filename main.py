@@ -25,9 +25,9 @@ for i in range(0, 101):
    if i >= 100:
       time.sleep(2)
       try:
-         os.system('clear')
-      except:
          os.system('cls')
+      except:
+         os.system('clear')
       break
 
 
