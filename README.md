@@ -5,10 +5,12 @@ Hi! This is my very first python project and it aims to simplify hacking just ty
 
 ### Screenshots
 ##### Loading
-[![Loading](https://i.ibb.co/hYZHP60/Charging.jpg)
+######When you run the code, this would occur; simulating that the code is runing
+![Loading](https://i.ibb.co/hYZHP60/Charging.jpg)
 
 ##### Home
-[![Home interface](https://i.ibb.co/MMXNx8M/Home.jpg)
+######After loading you would land on this home screen.
+![Home interface](https://i.ibb.co/MMXNx8M/Home.jpg)
 
 
 ## License
