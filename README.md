@@ -5,10 +5,10 @@ Hi! This is my very first python project and it aims to simplify hacking just ty
 
 ### Screenshots
 ##### Loading
-[![Loading](https://drive.google.com/file/d/15TFXZbZ0-AcSY1XxTQwkVukYZ7eqzhBo/view?usp=sharing)
+[![Loading](https://i.ibb.co/hYZHP60/Charging.jpg)
 
 ##### Home
-[![Home interface](https://drive.google.com/file/d/114vHkixKwVkCo19Oc7m7M2cjFrhqRsdw/view?usp=sharing)
+[![Home interface](https://i.ibb.co/MMXNx8M/Home.jpg)
 
 
 ## License
