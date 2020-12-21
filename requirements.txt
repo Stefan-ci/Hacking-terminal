@@ -1,0 +1,4 @@
+python-nmap
+colorama
+pyfiglet
+termcolor
